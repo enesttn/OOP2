@@ -1,0 +1,8 @@
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\OOP\Collecitons\bin\Debug\Collecitons.exe.config
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\OOP\Collecitons\bin\Debug\Collecitons.exe
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\OOP\Collecitons\bin\Debug\Collecitons.pdb
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\OOP\Collecitons\obj\Debug\Collecitons.csproj.AssemblyReference.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\OOP\Collecitons\obj\Debug\Collecitons.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\OOP\Collecitons\obj\Debug\Collecitons.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\OOP\Collecitons\obj\Debug\Collecitons.exe
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\OOP\Collecitons\obj\Debug\Collecitons.pdb
