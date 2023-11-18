@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,12 +8,12 @@ namespace OOP3
 {
     public class KonutKrediManager : IKrediManager
     {
-        void IKrediManager.BiseyYap()
+       public void BiseyYap()
         {
             throw new NotImplementedException();
         }
 
-        void IKrediManager.Hesapla()
+       public void Hesapla()
         {
             Console.WriteLine("Konut kredisi ödeme planı hesaplandı.");
         }
